@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class teacherinfojavaapp {
+public class Teacherinfojavaapp {
     public static void main(String[] args) {
         ArrayList<String> store = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
@@ -33,6 +33,6 @@ public class teacherinfojavaapp {
             System.out.println(entry);
         }
 
-        sc.close(); // Good practice to close the scanner
+        sc.close();
     }
 }
