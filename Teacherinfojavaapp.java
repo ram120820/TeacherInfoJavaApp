@@ -61,5 +61,6 @@ public class Teacherinfojavaapp {
               System.out.println("THE NATIVE PLACE OF THE TEACHER : " + getdetailes.nativeplace);
 
           }
+          sc.close();
     }
 }
